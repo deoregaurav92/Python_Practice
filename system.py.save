@@ -1,0 +1,10 @@
+import sys
+
+def main():
+	while True:
+		print('Do yoou want to exit?');
+		in = input();
+		if in == 'exit':
+		print('Good Bye!');
+		sys.exit();
+
