@@ -1,5 +1,6 @@
 #This program says hello and ask for your name
-
+print('This', 'is', 'Gaurav',sep=' ');
+print('How are you Gaurav?', end='\t'); print('Really Nice to meet with you');
 print('Hello World!');
 print('What is your name?');
 myname = input();
