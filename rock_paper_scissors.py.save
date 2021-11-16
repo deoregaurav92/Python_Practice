@@ -1,0 +1,6 @@
+def main
+():
+	count = 0;
+	
+	print('Welcome to Rock, Paper, Scissor');
+	
